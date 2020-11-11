@@ -62,8 +62,7 @@ Here is our [Discord](https://discord.gg/gTnDxQ6)
 
 ## Compatibility
 
-- Android 5.x to 10.0 (7.x+ recommended). 
-  - With current tools Android 11 cannot be supported.
+- Android 5.x to 11.0 (7.x+ recommended). 
   - MIUI is not officially supported unless someone is willing to share the overlays used in MIUI. I have mixed results from testers in how well it works.
 - Magisk v18.2+ (No other root solution is supported, for forwards compatibility)
 - **Recommended to flash through magisk manager**
@@ -75,4 +74,5 @@ Here is our [Discord](https://discord.gg/gTnDxQ6)
 
 * [Bromite SystemWebView wiki page](https://github.com/bromite/bromite/wiki/Installing-SystemWebView)
 * [Bromite website](https://bromite.org)
-* [Upstream repository](https://git.linuxandria.com/unixandria-git/bromitewebview)
+* [Upstream repository](https://git.linuxandria.com/unixandria-git/bromitewebview
+* [My website](https://linuxandria.com)
