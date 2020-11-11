@@ -74,5 +74,5 @@ Here is our [Discord](https://discord.gg/gTnDxQ6)
 
 * [Bromite SystemWebView wiki page](https://github.com/bromite/bromite/wiki/Installing-SystemWebView)
 * [Bromite website](https://bromite.org)
-* [Upstream repository](https://git.linuxandria.com/unixandria-git/bromitewebview
+* [Upstream repository](https://git.linuxandria.com/unixandria-git/bromitewebview)
 * [My website](https://linuxandria.com)
