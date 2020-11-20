@@ -1,4 +1,4 @@
-# Bromite Systemless Webview
+# Bromite Systemless Webview Updater
 	
 	ANY PROBLEMS WITH INSTALLATION SHOULD BE REPORTED WITH LOGS AT OUR TELEGRAM GROUP BELOW
 	
@@ -17,7 +17,7 @@ A WebView is like a minimal browser, but for non-browsers that display web conte
 
 ## Credits
 
-Module created by @linuxandria
+Module forked by S-H-Y-A from Magisk-Modules-Repo/bromitewebview (@linuxandria)
 
 Bromite itself is created by and copyright of the developers of the [Bromite project](https://github.com/bromite/bromite). The upstream official repository can be found [here](https://github.com/bromite/bromitewebview)
 
