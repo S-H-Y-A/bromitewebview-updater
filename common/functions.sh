@@ -257,12 +257,12 @@ if test -d /data/adb/modules/"$MODID";
 then
   VERSIONMOD=$(grep versionCode /data/adb/modules/"$MODID"/module.prop | tail -c +13)
   TMPMOD=$(grep versionCode  "$TMPDIR"/module.prop | tail -c +13)
-  if test "$VERSIONMOD" -le "$TMPMOD"
-  then
-    touch "$MODPATH"/remove
-    ui_print " Same or older version detected, removing!"
-    exit 0
-  fi
+  #if test "$VERSIONMOD" -le "$TMPMOD"
+  #then
+    #touch "$MODPATH"/remove
+    #ui_print " Same or older version detected, removing!"
+    #exit 0
+  #fi
 fi
 [ -f "$MODPATH/common/install.sh" ] && . $MODPATH/common/install.sh
 
