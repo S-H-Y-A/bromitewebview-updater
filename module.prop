@@ -1,6 +1,6 @@
-id=bromitewebview_updater
+id=bromitewebview
 name=Bromite Systemless Webview Updater
 version=6.1.1
 versionCode=3124
-author=Alexandria C (S-H-Y-A)
+author=Alexandria C (forked by S-H-Y-A)
 description=Update Bromite System Webview systemless-ly, on most ROMs! You can block ads and fingerprinting, and protect your privacy with it. Bromite is created by csagan5. See the README for support (tap the module in Downloads from github. Can't Download in Magisk Manager)
